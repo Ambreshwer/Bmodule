@@ -11,6 +11,7 @@ public class Test1 {
 	public static void div() {
 		
 		System.out.println("Skelton Created");
+		System.out.println("Skelton Updated");
 		
 	}
 
